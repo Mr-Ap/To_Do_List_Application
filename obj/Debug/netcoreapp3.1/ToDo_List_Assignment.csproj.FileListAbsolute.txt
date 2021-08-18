@@ -1,0 +1,14 @@
+C:\Users\Avadhut.Patil\source\repos\C_Sharp_HandsOn\ToDo_List_Assignment\bin\Debug\netcoreapp3.1\ToDo_List_Assignment.exe
+C:\Users\Avadhut.Patil\source\repos\C_Sharp_HandsOn\ToDo_List_Assignment\bin\Debug\netcoreapp3.1\ToDo_List_Assignment.deps.json
+C:\Users\Avadhut.Patil\source\repos\C_Sharp_HandsOn\ToDo_List_Assignment\bin\Debug\netcoreapp3.1\ToDo_List_Assignment.runtimeconfig.json
+C:\Users\Avadhut.Patil\source\repos\C_Sharp_HandsOn\ToDo_List_Assignment\bin\Debug\netcoreapp3.1\ToDo_List_Assignment.runtimeconfig.dev.json
+C:\Users\Avadhut.Patil\source\repos\C_Sharp_HandsOn\ToDo_List_Assignment\bin\Debug\netcoreapp3.1\ToDo_List_Assignment.dll
+C:\Users\Avadhut.Patil\source\repos\C_Sharp_HandsOn\ToDo_List_Assignment\bin\Debug\netcoreapp3.1\ToDo_List_Assignment.pdb
+C:\Users\Avadhut.Patil\source\repos\C_Sharp_HandsOn\ToDo_List_Assignment\obj\Debug\netcoreapp3.1\ToDo_List_Assignment.csproj.AssemblyReference.cache
+C:\Users\Avadhut.Patil\source\repos\C_Sharp_HandsOn\ToDo_List_Assignment\obj\Debug\netcoreapp3.1\ToDo_List_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Avadhut.Patil\source\repos\C_Sharp_HandsOn\ToDo_List_Assignment\obj\Debug\netcoreapp3.1\ToDo_List_Assignment.AssemblyInfoInputs.cache
+C:\Users\Avadhut.Patil\source\repos\C_Sharp_HandsOn\ToDo_List_Assignment\obj\Debug\netcoreapp3.1\ToDo_List_Assignment.AssemblyInfo.cs
+C:\Users\Avadhut.Patil\source\repos\C_Sharp_HandsOn\ToDo_List_Assignment\obj\Debug\netcoreapp3.1\ToDo_List_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Avadhut.Patil\source\repos\C_Sharp_HandsOn\ToDo_List_Assignment\obj\Debug\netcoreapp3.1\ToDo_List_Assignment.dll
+C:\Users\Avadhut.Patil\source\repos\C_Sharp_HandsOn\ToDo_List_Assignment\obj\Debug\netcoreapp3.1\ToDo_List_Assignment.pdb
+C:\Users\Avadhut.Patil\source\repos\C_Sharp_HandsOn\ToDo_List_Assignment\obj\Debug\netcoreapp3.1\ToDo_List_Assignment.genruntimeconfig.cache
